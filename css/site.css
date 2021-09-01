@@ -8,6 +8,13 @@ main>.container {
     bottom: 0;
     width: 100 % ;
 } */
+main>.container-fluid{
+    padding-top:60px;
+}
+body> main{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
 
 .homeBG{
     width:100%;
